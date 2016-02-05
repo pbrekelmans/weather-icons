@@ -1,6 +1,6 @@
 Package.describe({
   name: 'noxu:weather-icons',
-  version: '1.3.2',
+  version: '2.0.8',
   summary: 'Weather Icons for MeteorJS',
   git: 'https://github.com/Noxu/weather-icons.git',
   documentation: 'README.md'
